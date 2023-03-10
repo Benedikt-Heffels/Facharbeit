@@ -2,4 +2,4 @@
 Facharbeit am Gymnasium der Stadt Hückelhoven 2023.
 Thema der Facharbeit: Logik und Logikprogrammierung mit Prolog
 ## Verzeichnis der Quellen
-Das Verzeichnis der Quellen (Screenshoots) befindet sich auf unseren Schul-Microsoft-Servern. Den Link dazu finden Sie auf der letzten Seite der Facharbeit.
+Das Verzeichnis der Quellen (Screenshoots) befindet sich auf unsere Schul-Microsoft-Server. Den Link dazu finden Sie auf Seite 26 der Facharbeit.
