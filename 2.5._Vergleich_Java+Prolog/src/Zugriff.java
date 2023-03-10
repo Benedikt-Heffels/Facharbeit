@@ -110,10 +110,13 @@ public class Zugriff {
         }
         else{
             for (int i = 0; i < mannARR.length; i++) {
-                if (mannARR[i].getName().equals(x) && mannARR[i].getVater().equals(y)) {
-                    System.out.println("true");
-                    return;
-                } else if (mannARR.length == i + 1) {
+                if (mannARR[i].getVater() != null) {
+                    if (mannARR[i].getName().equals(x) && mannARR[i].getVater().equals(y)) {
+                        System.out.println("true");
+                        return;
+                    }
+                }
+                if (mannARR.length == i + 1) {
                     System.out.println("false");
                 }
             }
